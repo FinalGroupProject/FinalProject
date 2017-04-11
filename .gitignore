@@ -7,8 +7,9 @@ public class Info {
 	private double acceptenceRate;
 	private int actScore;
 	private int satScore;
+	
 		public static void main(String[] args) {
-		hello dudes!
+
 	
 	}
 
