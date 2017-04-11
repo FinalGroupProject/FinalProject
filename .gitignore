@@ -5,7 +5,8 @@ public class Info {
 	private int students;
 	private double gpa;
 	private double acceptenceRate;
-	private int actScore
+	private int actScore;
+	private int satScore;
 		public static void main(String[] args) {
 		hello dudes!
 	
